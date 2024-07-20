@@ -1,0 +1,326 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.fly-buy-logo {
+    height: 56px;
+    width: 163px;
+}
+
+#fly-buy-home {
+    color: black;
+    font-size: 14px;
+    font-family: "Roboto";
+}
+
+#fly-buy-services {
+    color: black;
+    font-size: 14px;
+    font-family: "Roboto";
+}
+
+#fly-buy-products {
+    color: black;
+    font-size: 14px;
+    font-family: "Roboto";
+}
+
+#fly-buy-explore-details-offers {
+    color: black;
+    font-size: 14px;
+    font-family: "Roboto";
+}
+
+#fly-buy-trending-blogs {
+    color: black;
+    font-size: 14px;
+    font-family: "Roboto";
+}
+
+.our-services-heading {
+    color: #183b56;
+    font-size: 36px;
+    font-weight: 700;
+    font-family: "Roboto";
+}
+
+.our-services-paragraph {
+    color: #7b8794;
+    font-size: 18px;
+    font-family: "Roboto";
+}
+
+.truck-img {
+    width: 80px;
+}
+
+.fast-and-free-delivery-heading {
+    color: #1f2933;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+.fast-free-delivery-paragraph {
+    color: #7b8794;
+    font-size: 14px;
+    font-family: "Roboto";
+}
+
+.our-products-bg-container-section {
+    background-color: white;
+}
+
+.our-products-heading {
+    color: #183b56;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: "Roboto";
+}
+
+.smart-headphones-img {
+    height: 328px;
+    border-radius: 16px;
+    padding: 20px;
+}
+
+.head {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+}
+
+.smart-headphones-heading {
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.headphones-with-deep-bass-paragraph {
+    font-size: 16px;
+    color: white;
+    font-family: "Roboto";
+}
+
+.view-details-button {
+    height: 48px;
+    width: 134px;
+    background-color: white;
+    color: #ff9f00;
+    border-radius: 100px;
+    border-width: 0px;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+.custom-modal-title {
+    font-size: 24px;
+    font-family: "Roboto";
+    font-weight: 500;
+    color: #323f4b;
+}
+
+.buy-now-button {
+    border-width: 1px;
+    border-color: #323f4b;
+}
+
+.laptops-img {
+    height: 328px;
+    border-radius: 20px;
+    padding: 16px;
+}
+
+.head1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+}
+
+.products-card-modal-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.products-card-modal-list-item {
+    color: #323f4b;
+    font-family: "roboto";
+    font-size: 16px;
+}
+
+.products-card-modal-list-item-category {
+    font-weight: bold;
+}
+
+.see-all-offers-span-element {
+    font-size: 24px;
+    color: #ff9f00;
+    font-weight: 800;
+    font-family: "Roboto";
+}
+
+.gradient-background-image {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    background-size: cover;
+}
+
+.sbi-credit-card-img {
+    height: 120px;
+    width: 350px;
+}
+
+.trending-blogs-heading {
+    color: #183b56;
+    font-size: 36px;
+    font-weight: 800;
+    font-family: "Roboto";
+}
+
+.fountain-pens-heading {
+    font-size: 14px;
+    font-family: "Roboto";
+    color: #959ead;
+    font-weight: 500;
+}
+
+.Guide-to-fountain-pen-nibs {
+    font-size: 24px;
+    font-family: "Roboto";
+    color: #183b56;
+    font-weight: bold;
+}
+
+.guide-to-fountain-pen-nibs-paragraph {
+    font-size: 20px;
+    font-family: "Roboto";
+    color: #959ead;
+    font-weight: 500;
+}
+
+.read-more-anchor-element {
+    color: #ff9f00;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: "Roboto";
+}
+
+.explore-deals-offers-heading {
+    color: #183b56;
+    font-size: 38px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.card-section {
+    border-radius: 10px;
+}
+
+.upto-80-off-heading {
+    color: #183b56;
+    font-size: 26px;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.watch-img {
+    border-radius: 25px;
+}
+
+.smart-watch-heading {
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 500;
+    color: #1f2933;
+}
+
+.see-all-deals-span-element {
+    color: #ff9f00;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.festive-img {
+    width: 90%;
+    border-radius: 20px;
+}
+
+.contact-us-section {
+    background-color: #f5f7fa;
+}
+
+.let-us-join-together-heading {
+    color: #183b56;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.contact-us-button {
+    font-size: 18px;
+    background-color: transparent;
+    border-color: #ff9f00;
+    color: #ff9f00;
+    border-style: solid;
+    border-width: 2px;
+    height: 43px;
+    width: 140px;
+    font-family: "Roboto";
+}
+
+.background-color_1 {
+    background-color: #0d2436;
+}
+
+.flybuy-img {
+    width: 163px;
+    height: 56px;
+}
+
+.google-container {
+    background-color: #0d2436;
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+}
+
+.google {
+    color: #5a7184;
+}
+
+.span-element-heading {
+    color: #959ead;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+.get-to-know-us-element {
+    color: #5a7184;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: "Roboto";
+}
+
+.ecmmerce-footer-section-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.ecmmerce-footer-section-list-item {
+    color: #5a7184;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+.horizontal-line {
+    font-size: 10px;
+    background-color: #5a7184;
+}
+
+.copy-right-logo {
+    color: #5a7184;
+}
+
+.span-element-1 {
+    color: #A8A8A8;
+}
